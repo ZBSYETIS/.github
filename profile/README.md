@@ -16,4 +16,4 @@
 **👥 团队成员：**
 *   **Core Dev:** Dinner, hm2ns
 *   **User Service:** Trubiacy_/TriBasis
-*   **Support:** C987
+*   **Support:** Cookie_987
