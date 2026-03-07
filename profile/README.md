@@ -9,8 +9,8 @@
 
 **📦 明星项目：**
 *   🌐 **WebUI Series:** 我们的自研前端框架与静态资源库。
-*   📊 **Quantitative Management:** 量化管理系统，让班级管理更透明。
-*   🎓 **Student Services:** 涵盖成绩查询、奖学金填报、 peersupport 综合服务的一站式平台。
+*   📊 **Quantitative Management:** 量化管理系统，核心业务，实力展示。
+*   🎓 **Student Services:** 涵盖成绩查询、奖学金填报、 学生社团管理、活动管理等 综合服务的一站式平台。
 *   ⏰ **Smart Clock:** 基于 Lua 的智能桌面时钟项目。
 
 **👥 团队成员：**
