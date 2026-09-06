@@ -15,5 +15,8 @@
 
 **👥 团队成员：**
 *   **Core Dev:** Dinner, hm2ns
+*   **Managemen** 170(zhang chuan)
+*   **Learn** wxl0430
+*   PREV:
 *   **User Service:** Trubiacy_
 *   **Support:** Cookie_987
